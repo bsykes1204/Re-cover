@@ -9,5 +9,6 @@ public class Advice extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.advice);
+		// something here
 }
 }
